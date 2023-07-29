@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\bin\Debug\PDFSign.exe.config
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\bin\Debug\PDFSign.exe
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\bin\Debug\PDFSign.pdb
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.Form1.resources
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.Form2.resources
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.Form3.resources
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.Properties.Resources.resources
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.exe
+C:\Users\ASUS\source\repos\PDFSign\PDFSign\obj\Debug\PDFSign.pdb
